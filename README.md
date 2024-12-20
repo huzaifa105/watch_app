@@ -77,6 +77,10 @@ For a complete list, refer to `pubspec.yaml`.
 ## Screenshots
 
 ![WhatsApp Image 2024-12-20 at 15 59 57_67f91abd](https://github.com/user-attachments/assets/34192070-ed50-427b-8592-0e0ba5646ac1)
+![WhatsApp Image 2024-12-20 at 16 00 18_c4c5f962](https://github.com/user-attachments/assets/be609705-06b5-48d7-84a4-88fa4869f058)
+![WhatsApp Image 2024-12-20 at 16 01 35_43fec73d](https://github.com/user-attachments/assets/c9f89538-1465-4438-9aab-ae12345ef7d6)
+![WhatsApp Image 2024-12-20 at 16 01 49_49e71166](https://github.com/user-attachments/assets/2c475863-9fff-4839-972e-bb7ea4c7255f)
+![WhatsApp Image 2024-12-20 at 16 02 11_74d2c227](https://github.com/user-attachments/assets/536571df-9ef8-42ea-81d4-9dfa0e14143d)
 
 
 ## Contributing
