@@ -76,7 +76,8 @@ For a complete list, refer to `pubspec.yaml`.
 
 ## Screenshots
 
-_Add screenshots here to showcase the app's UI._
+![WhatsApp Image 2024-12-20 at 15 59 57_67f91abd](https://github.com/user-attachments/assets/34192070-ed50-427b-8592-0e0ba5646ac1)
+
 
 ## Contributing
 
