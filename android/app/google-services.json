@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823612926364",
+    "project_id": "watch-app1-60ddd",
+    "storage_bucket": "watch-app1-60ddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823612926364:android:ecb17c340c346b7b4dc059",
+        "android_client_info": {
+          "package_name": "com.example.watchApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCLyV3clGNh1eSeXMIWcf3ks7rC3xvbhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
